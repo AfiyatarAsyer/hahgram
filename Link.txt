@@ -6,7 +6,7 @@ link: https://www.youtube.com/watch?v=_W3R2VwRyF4&list=PL6QREj8te1P6wX9m5KnicnDV
 Programming Language/IDE: next.js, tailwind 
 Database: mongoDB
 
-time: 40.58
+time: 51.00
 
 Steps:
 
@@ -20,3 +20,7 @@ https://vitejs.dev/guide/
 https://tailwindcss.com/docs/guides/vite
 https://www.youtube.com/watch?v=_W3R2VwRyF4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
 https://ui.shadcn.com/
+https://zod.dev/?id=table-of-contents
+
+Databases:
+https://appwrite.io/
